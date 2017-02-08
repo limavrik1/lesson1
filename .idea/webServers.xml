@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="821ce92f-e770-48ca-bb5c-91bb7554845a" name="OpenServer" url="http://lesson1:8080">
+        <fileTransfer port="0" mountedRoot="e:\OpenServer\domains\lesson1" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
